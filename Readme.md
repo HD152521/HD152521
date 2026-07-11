@@ -132,8 +132,3 @@ Terraform AWS (EKS, Lambda, ALB, S3, RDS, DynamoDB) Kubernetes ArgoCD Prometheus
 Email · wkdrndydtlr@gmail.com
 Blog · tmi-t.tistory.com
 Instagram · @hi_.sik
-
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=87aeee&height=100&section=footer" />
-</div>
