@@ -200,15 +200,6 @@ N+1 문제와 반복 조회를 식별해 **IN 배치 조회 · 인덱스 튜닝*
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HD152521&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HD152521&layout=compact&theme=default&hide_border=true" />
-</div>
-
-<br/>
-
 ## 📫 Contact
 
 - **Email** · wkdrndydtlr@gmail.com
